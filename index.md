@@ -8,7 +8,7 @@
       <p><b>地址：上海市闵行区东川路800号电院3号楼512</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%">
     </td>
   </tr>
 </table>
