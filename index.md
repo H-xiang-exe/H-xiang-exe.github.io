@@ -1,8 +1,18 @@
-### 个人信息
-#### 姓名：向昊
-#### 学历：硕士在读
-#### 学校：上海交通大学
-#### 邮箱：milk_exe_xh@sjtu.edu.cn
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>向昊</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>上海交通大学电子信息与电气工程学院计算机系</b></p>
+      <p><b>邮箱：milk_exe_xh@sjtu.edu.cn</b></p>
+      <p><b>地址：上海市闵行区东川路800号电院3号楼512</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 
 ### 最新消息
 
